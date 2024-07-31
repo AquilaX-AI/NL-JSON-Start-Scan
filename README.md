@@ -44,7 +44,7 @@ You can run the model directly in a Colab notebook. Open the provided notebook i
 ### Using Python Script
 Alternatively, you can run the model using the provided Python script in app.py
 ```bash
-python app.py
+python inference.py
 ```
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
