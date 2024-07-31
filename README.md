@@ -1,6 +1,4 @@
-```markdown
 # AquilaX-NL-JSON-Start-Scan
-```
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
@@ -40,10 +38,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-###Using Colab Notebook
+### Using Colab Notebook
 You can run the model directly in a Colab notebook. Open the provided notebook in Google Colab:
 
-###Using Python Script
+### Using Python Script
 Alternatively, you can run the model using the provided Python script in app.py
 ```bash
 python app.py
