@@ -55,10 +55,5 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 - [Suriya S](https://github.com/theSuriya)
 - [Vicky](https://github.com/Mr-Vicky-01)
 
-## Contributors
-- [Aquilax-Ai](https://huggingface.co/AquilaX-AI)
-- [Suriya S](https://github.com/theSuriya)
-- [Vicky](https://github.com/Mr-Vicky-01)
-
 ## Acknowledgments
 - Hugging Face for the Transformers library.
